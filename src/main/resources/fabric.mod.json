@@ -21,6 +21,8 @@
     "cratedelight": "*",
     "moredelight": "*",
     "storagedelight": "*",
-    "toomanypaintings": "*"
+    "toomanypaintings": "*",
+    "farmersdelight": "*",
+    "expandeddelight": "*"
   }
 }
