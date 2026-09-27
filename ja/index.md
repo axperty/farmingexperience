@@ -14,11 +14,13 @@ hero:
       text: Download on Modrinth
       link: https://modrinth.com/modpack/farming-experience
 features:
-  - title: Wiki
+  - icon: 📖
+    title: Wiki
     details: Take a look at the wiki to learn more about Farming Experience, how to install the modpack, create a server with your friends, and more.
     link: /ja/wiki/about
     linkText: Read the Wiki
-  - title: Send Feedback
+  - icon: 💬
+    title: Send Feedback
     details: Feel free to share your ideas and suggestions through the feedback form. I'd love to hear what you think!
     link: /ja/wiki/feedback
     linkText: Send Feedback

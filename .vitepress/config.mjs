@@ -51,7 +51,7 @@ export default defineConfig({
       '/wiki/': getSidebar('')
     },
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/axperty/yakisugi' },
+      { icon: 'github', link: 'https://github.com/axperty/farmingexperience' },
       { icon: 'discord', link: 'https://discord.gg/e2BQx4bbsU' },
       { icon: 'youtube', link: 'https://www.youtube.com/@axperty' }
     ],
