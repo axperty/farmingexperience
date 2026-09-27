@@ -1,3 +1,7 @@
+::: warning
+This website hasn't been translated yet. [Contribute with translations](https://github.com/axperty/farmingexperience/tree/gh-pages).
+:::
+
 # Create a Server
 
 ## Farming Experience Server Installer

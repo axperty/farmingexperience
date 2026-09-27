@@ -16,11 +16,14 @@ hero:
 features:
   - title: Wiki
     details: Take a look at the wiki to learn more about Farming Experience, how to install the modpack, create a server with your friends, and more.
-    link: /wiki/about
+    link: /ja/wiki/about
     linkText: Read the Wiki
   - title: Send Feedback
     details: Feel free to share your ideas and suggestions through the feedback form. I'd love to hear what you think!
-    link: /wiki/feedback
+    link: /ja/wiki/feedback
     linkText: Send Feedback
 ---
 
+::: warning
+This website hasn't been translated yet. [Contribute with translations](https://github.com/axperty/farmingexperience/tree/gh-pages).
+:::
